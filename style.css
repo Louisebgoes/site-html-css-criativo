@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    
 }
 .cabecalho {
     background-color: #b5eafa;
@@ -27,3 +28,27 @@
     
 }
 
+.imagem-linguagens{
+    width: 20%;
+    display: flex;
+}
+
+.programacao{
+    background-image:linear-gradient(#d0eef7,rgb(52, 179, 238))
+
+}
+
+.titulo-programacao{
+    text-align: center;
+    text-size-adjust: 600px;
+padding-top: 100px;
+}
+
+.texto-programacao{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.imagem-linguagens{
+    padding:30px 0px 30px 550px;
+}
